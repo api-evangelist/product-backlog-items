@@ -1,15 +1,22 @@
+aid: product-backlog-items
 name: Product Backlog Items
-description: Prioritized list of features, enhancements, and fixes that represent
-  work to be done in a product development process, typically used in Agile and Scrum
-  methodologies. Teams use it to align stakeholders, track progress, and adapt to
-  changing requirements throughout the project lifecycle.
-url: https://www.scrum.org/resources/what-is-a-product-backlog
+description: >-
+  Product backlog items are the individual units of work in a product backlog,
+  representing features, enhancements, and fixes in Agile and Scrum
+  methodologies.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Agile
-- Scrum
-- Project Management
-- Product Management
-created: '2025'
-modified: '2025'
+  - Agile
+  - Scrum
+  - Project Management
+  - Product Management
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/product-backlog-items/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
